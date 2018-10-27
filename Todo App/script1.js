@@ -1,4 +1,7 @@
 //alert('connected')
+/*
+    DEVELOPED BY @MYRONIC
+*/
 
 var ul = document.getElementById('list');
 var li;
