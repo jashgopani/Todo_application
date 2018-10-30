@@ -1,4 +1,5 @@
 //alert('connected')
+//alert myron
 
 var ul = document.getElementById('list');
 var li;
